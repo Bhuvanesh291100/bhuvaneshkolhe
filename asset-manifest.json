@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b456b33b.css",
+    "main.js": "./static/js/main.c8203819.js",
+    "static/js/453.b05d8aa5.chunk.js": "./static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg_dark.jpg": "./static/media/bg_dark.24bc6af703e2209adc70.jpg",
+    "static/media/bg_light.jpg": "./static/media/bg_light.6b013a27ce7a67bf7c8a.jpg",
+    "static/media/my_photo.jpg": "./static/media/my_photo.4081c2d5a0751c1ef0bb.jpg",
+    "static/media/agnelhub.jpg": "./static/media/agnelhub.4f04c90091a0f07fc8a3.jpg",
+    "static/media/nft.jpg": "./static/media/nft.3c56f2e6210c32cfe630.jpg",
+    "static/media/covid19.jpeg": "./static/media/covid19.bd7ecc90b1aaa2a48407.jpeg",
+    "static/media/udgir.jpg": "./static/media/udgir.338965912fc20f189423.jpg",
+    "static/media/tacodb.png": "./static/media/tacodb.0c0f59735146e322306e.png",
+    "static/media/text-chat.jpg": "./static/media/text-chat.501d636bcff33368d66d.jpg",
+    "static/media/code-completion.jpg": "./static/media/code-completion.52ca6171fed44e9c0502.jpg",
+    "static/media/os.jpg": "./static/media/os.01d2865493e5832ff4b6.jpg",
+    "index.html": "./index.html",
+    "main.b456b33b.css.map": "./static/css/main.b456b33b.css.map",
+    "main.c8203819.js.map": "./static/js/main.c8203819.js.map",
+    "453.b05d8aa5.chunk.js.map": "./static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b456b33b.css",
+    "static/js/main.c8203819.js"
+  ]
+}
